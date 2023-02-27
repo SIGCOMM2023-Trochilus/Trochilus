@@ -7,6 +7,7 @@ Regular Expression in the Data Plane
    -- create_logic_mat_bias.py
    -- create_automata.py
    -- decompose_automata.py
+   -- merge_automaton.py
    -- dfa_from_rule.py
    -- fsa_to_tensor.py
    -- load_dataset.py
